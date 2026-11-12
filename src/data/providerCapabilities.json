@@ -672,6 +672,13 @@
       "chat"
     ]
   },
+  "providers/ngrok": {
+    "prefix": "ngrok",
+    "capabilities": [
+      "chat",
+      "embeddings"
+    ]
+  },
   "providers/nlp_cloud": {
     "prefix": "nlp_cloud",
     "capabilities": [

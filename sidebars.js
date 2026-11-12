@@ -1917,6 +1917,7 @@ const providersSidebar = {
     "providers/nano-gpt",
     "providers/nebius",
     "providers/neosantara",
+    { type: "doc", id: "providers/ngrok", label: "ngrok AI Gateway" },
     "providers/nlp_cloud",
     "providers/novita",
     { type: "doc", id: "providers/nscale", label: "Nscale (EU Sovereign)" },
